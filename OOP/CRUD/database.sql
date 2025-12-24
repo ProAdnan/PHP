@@ -1,0 +1,11 @@
+CREATE TABLE users;
+
+
+CREATE TABLE EMPLOYEES(
+    
+    EMP_ID INT PRIMARY KEY,
+    EMP_NAME VARCHAR(255),
+    
+    EMP_SALARY INT
+    
+    );
